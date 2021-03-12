@@ -1,2 +1,6 @@
 testing
 one new line
+
+auto
+
+cmd test
